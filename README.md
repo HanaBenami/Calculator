@@ -16,3 +16,9 @@
 * Decimal numbers
 
 The above lists can be extended easily, with minor changes. 
+<br/><br/>
+
+### License
+:copyright: Hana Ben-Ami
+
+:email: [Contact me](mailto:hana.benami@gmail.com)
