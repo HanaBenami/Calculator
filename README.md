@@ -19,6 +19,6 @@ The above lists can be extended easily, with minor changes.
 <br/><br/>
 
 ### License
-:copyright: Hana Ben-Ami
+:copyright: Hana Oliver
 
 :email: [Contact me](mailto:hana.benami@gmail.com)
